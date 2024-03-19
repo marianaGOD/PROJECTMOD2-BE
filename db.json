@@ -2606,6 +2606,185 @@
     }
   ],
   "reviews": [
-    
+    {
+      "username": "redman",
+      "title": "a cool movie",
+      "description": "hahaha good movie",
+      "rating": 4,
+      "createdDate": "18/3/2024",
+      "movieId": "1",
+      "id": 1
+    },
+    {
+      "username": "caro",
+      "title": "lorem ipsum",
+      "description": "hewe;lsdfjl;sdf",
+      "rating": 4,
+      "createdDate": "19/3/2024",
+      "movieId": "138",
+      "id": 2
+    }
+  ],
+  "news": [
+    {
+      "id": 0,
+      "title": "Cannes Film Festival announces lineup for its 75th edition",
+      "story": "The Cannes Film Festival has unveiled the lineup for its 75th edition, featuring a diverse selection of films from around the world. Among the highly anticipated entries are new works from acclaimed directors such as Pedro Almodóvar, Jane Campion, and Bong Joon-ho. This year's lineup includes a mix of genres, from thought-provoking dramas to exhilarating thrillers, showcasing the breadth and depth of cinematic talent on display at the festival. In addition to the main competition, the festival will also feature special screenings, retrospectives, and panel discussions, providing audiences with a unique opportunity to engage with the art of cinema in all its forms. Movie enthusiasts and industry professionals alike eagerly await the festival, which serves as a celebration of creativity, innovation, and the power of storytelling on the big screen.",
+      "date": "15/04/2024",
+      "author": "John Smith",
+      "photo": "https://woody.cloudly.space/app/uploads/cannes-tourisme/2022/06/thumbs/palais-vue-sur-la-montee-des-marchespalaisdesfestival-1920x960.jpg"
+    },
+    {
+      "id": 1,
+      "title": "Netflix acquires rights to major blockbuster franchise",
+      "story": "Netflix has secured the rights to produce a new installment in the popular action franchise, signaling a significant expansion into big-budget blockbuster territory for the streaming giant. The announcement has sparked excitement among fans eager for more adventures from their favorite characters. With its vast resources and global reach, Netflix aims to deliver an epic cinematic experience that will rival the biggest studio releases. The franchise's loyal fanbase can expect high-octane action, dazzling visual effects, and unexpected twists as the story continues to unfold on the streaming platform. Netflix's foray into blockbuster filmmaking marks a bold new chapter in the company's evolution as a major player in the entertainment industry.",
+      "date": "20/04/2024",
+      "author": "Emily Johnson",
+      "photo": "https://www.lavanguardia.com/andro4all/hero/2021/05/El-logo-de-Netflix.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Study finds increase in diversity among Oscar nominees",
+      "story": "A recent study has found a notable increase in diversity among this year's Oscar nominees, with a greater representation of women, people of color, and individuals from marginalized communities. The findings reflect ongoing efforts within the film industry to promote inclusivity and representation on screen. As audiences demand more diverse and authentic storytelling, filmmakers and studios are responding by embracing a wider range of voices and perspectives. This shift is not only reflected in the nominees themselves but also in the stories they tell and the characters they portray. By recognizing and celebrating diverse talent, the Oscars are not only reflecting the world as it is but also shaping the future of cinema.",
+      "date": "25/04/2024",
+      "author": "Michelle Lee",
+      "photo": "https://assets.teenvogue.com/photos/65b14167071b4d3e361f49df/16:9/w_2560%2Cc_limit/oscars2%2520(1).jpg"
+    },
+    {
+      "id": 3,
+      "title": "Box Office Report: 'Superhero Saga' dominates weekend earnings",
+      "story": "The latest installment in the 'Superhero Saga' franchise has dominated the box office this weekend, smashing records with its opening weekend earnings. Audiences have flocked to theaters to witness the epic conclusion to this beloved superhero series. The film's success is a testament to the enduring appeal of the superhero genre and the skillful storytelling of its creators. With its breathtaking action sequences, compelling characters, and emotional depth, 'Superhero Saga' has captured the hearts and imaginations of fans around the world. As the franchise continues to expand, anticipation is high for future installments that promise to push the boundaries of the genre even further.",
+      "date": "28/04/2024",
+      "author": "David Wong",
+      "photo": "https://www.rollingstone.com/wp-content/uploads/2022/06/SuperHero_new.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Controversy erupts over casting of lead role in upcoming biopic",
+      "story": "Controversy has erupted over the casting of the lead role in an upcoming biopic, with critics accusing the filmmakers of whitewashing and cultural insensitivity. The casting decision has sparked widespread debate within the industry and prompted calls for greater representation and authenticity in casting choices. At the heart of the controversy is the question of who gets to tell whose stories in Hollywood. As audiences become increasingly vocal about the need for diversity and inclusion in film, filmmakers are under pressure to cast actors who authentically represent the characters they portray. The casting controversy serves as a reminder of the challenges that still exist in achieving true representation on screen and the importance of listening to marginalized voices in the industry.",
+      "date": "02/05/2024",
+      "author": "Samantha Chen",
+      "photo": "https://www.indiewire.com/wp-content/uploads/2017/08/screen-shot-2017-08-29-at-12-21-38-pm.png"
+    },
+    {
+      "id": 5,
+      "title": "Streaming service announces ambitious slate of original films",
+      "story": "A leading streaming service has announced an ambitious slate of original films, signaling its commitment to compete with traditional studios in the production of high-quality content. The lineup includes projects from both established and emerging filmmakers, with a focus on diverse storytelling. From gripping dramas to laugh-out-loud comedies, the streaming service aims to offer something for every viewer. With its vast library and global reach, the streaming service has the potential to reach audiences around the world and introduce them to new and exciting voices in cinema. As the battle for viewership heats up in the streaming wars, original content will play a crucial role in attracting and retaining subscribers, making this announcement a significant development in the entertainment landscape.",
+      "date": "05/05/2024",
+      "author": "Daniel Ramirez",
+      "photo": "https://www.cnet.com/a/img/resize/49c75a9f08ef6328f97bdf0a7aa30752db62c94c/hub/2020/06/25/eeb94490-b57c-4e3e-b286-283c5ccc1b4b/012-streaming-services-tv-2020.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Legendary filmmaker honored with lifetime achievement award",
+      "story": "A legendary filmmaker has been honored with a prestigious lifetime achievement award, recognizing their significant contributions to cinema over the course of their illustrious career. The award ceremony was attended by industry luminaries and fans alike, who celebrated the filmmaker's unparalleled talent and impact. From groundbreaking innovations in storytelling to memorable performances that have stood the test of time, the filmmaker's influence on the industry is immeasurable. Their body of work serves as a testament to the power of cinema to inspire, educate, and entertain audiences around the world. As they receive this well-deserved honor, fans look forward to celebrating their legacy for years to come.",
+      "date": "10/05/2024",
+      "author": "Irene Thompson",
+      "photo": "https://pbs.twimg.com/media/CkjubDSW0AIf9Mg.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Production delays announced for highly anticipated sequel",
+      "story": "Fans of the highly anticipated sequel will have to wait a little longer, as production delays have been announced due to unforeseen challenges on set. Despite the setback, the filmmakers remain committed to delivering a worthy follow-up to the beloved original. From script revisions to scheduling conflicts, production delays are a common occurrence in the film industry.",
+      "date": "15/05/2024",
+      "author": "Michael Johnson",
+      "photo": "https://edgy.app/wp-content/uploads/2018/12/Filmtech-FI-970x546.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Up-and-coming director wins top prize at prestigious film festival",
+      "story": "An up-and-coming director has won the top prize at a prestigious film festival for their debut feature, marking a significant breakthrough in their career. The director's innovative storytelling and bold vision captivated audiences and impressed the festival jury, earning them widespread acclaim and recognition. From their gripping narrative to their masterful direction, the director's film stood out among the competition, leaving a lasting impression on viewers and industry insiders alike. As they accept the top prize, the director expresses gratitude to their cast and crew for their hard work and dedication, as well as to the festival organizers for providing a platform to showcase their talent. With this win under their belt, the director is poised to make a name for themselves as a rising star in the world of cinema.",
+      "date": "20/05/2024",
+      "author": "Sophie Anderson",
+      "photo": "https://static01.nyt.com/images/2023/09/11/multimedia/09venice-winner-bpwf/09venice-winner-bpwf-articleLarge.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Industry leaders gather for annual summit on the future of cinema",
+      "story": "Industry leaders from around the world have gathered for the annual summit on the future of cinema, where they discuss emerging trends, challenges, and opportunities facing the industry. Topics of discussion include the impact of streaming platforms, evolving audience preferences, and technological advancements. As the film industry undergoes rapid transformation, stakeholders are seeking innovative solutions to adapt to changing consumer behavior and market dynamics. From virtual reality experiences to interactive storytelling, the summit explores new frontiers in filmmaking and distribution, paving the way for the next generation of cinematic innovation. By fostering collaboration and dialogue among key players in the industry, the summit aims to shape the future of cinema in an increasingly digital and interconnected world.",
+      "date": "25/05/2024",
+      "author": "Nathan Miller",
+      "photo": "https://media.vanityfair.com/photos/5ee79da03f0eac686b0fb380/master/pass/GettyImages-1205189763.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Renowned actor announces retirement from acting",
+      "story": "A renowned actor has announced their retirement from acting, bringing an end to a storied career that has spanned decades. The actor reflected on their journey in the industry and expressed gratitude to fans for their unwavering support throughout the years. From their breakout roles to their award-winning performances, the actor leaves behind a legacy of unforgettable characters and iconic moments on screen. As they bid farewell to the world of acting, the actor looks forward to new opportunities and challenges in their next chapter. Fans and colleagues alike celebrate the actor's remarkable career and wish them all the best in their future endeavors.",
+      "date": "30/05/2024",
+      "author": "Eleanor Davis",
+      "photo": "https://e3.365dm.com/23/10/768x432/skynews-sir-michael-caine-michael-caine_6320988.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Acclaimed filmmaker launches production company focused on diverse voices",
+      "story": "An acclaimed filmmaker has announced the launch of a new production company dedicated to amplifying diverse voices in cinema. The company aims to champion underrepresented storytellers and provide them with a platform to share their unique perspectives with audiences around the world. From marginalized communities to emerging talent, the production company is committed to fostering inclusivity and representation both in front of and behind the camera. With a slate of projects that reflect the rich tapestry of human experience, the company seeks to challenge stereotypes, break down barriers, and inspire meaningful conversations about the power of storytelling to unite and empower communities. As they embark on this new chapter, the filmmaker envisions a future where diversity is not only celebrated but also embraced as a fundamental pillar of the film industry.",
+      "date": "05/06/2024",
+      "author": "Oliver Garcia",
+      "photo": "https://prdaficalmjediwestussa.blob.core.windows.net/images/2023/03/AFI-Disney-Underrepresented-Storytellers-Initiative_B.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Groundbreaking animated film breaks box office records",
+      "story": "A groundbreaking animated film has shattered box office records, captivating audiences of all ages with its dazzling animation and heartwarming story. From its lovable characters to its memorable musical numbers, the film has struck a chord with viewers around the world, earning rave reviews and generating buzz on social media. As the highest-grossing animated film of all time, the movie's success marks a milestone for the animation industry and underscores the enduring appeal of animated storytelling in today's entertainment landscape. With its universal themes of friendship, courage, and self-discovery, the film has resonated with audiences of diverse backgrounds and cultures, cementing its status as a modern classic.",
+      "date": "10/06/2024",
+      "author": "Sophia Martinez",
+      "photo": "https://m.media-amazon.com/images/M/MV5BZjZkNThjNTMtOGU0Ni00ZDliLThmNGUtZmMxNWQ3YzAxZTQ1XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Critically acclaimed indie film wins big at film festivals",
+      "story": "A critically acclaimed indie film has been making waves on the festival circuit, winning top honors at prestigious film festivals around the world. From its powerful performances to its thought-provoking storyline, the film has captivated audiences and critics alike, earning praise for its authenticity and emotional resonance. As it continues to garner accolades and recognition, the indie film is gaining momentum ahead of its wide release, with audiences eagerly anticipating its arrival in theaters. With its innovative storytelling and uncompromising vision, the film serves as a reminder of the power of independent cinema to challenge conventions, spark dialogue, and inspire change.",
+      "date": "15/06/2024",
+      "author": "Liam Thompson",
+      "photo": "https://media.gq-magazine.co.uk/photos/63c941729733c9d888e5089a/master/w_1600%2Cc_limit/Sundance_indie_movies_0005_Landscape_with_inviisible_hand.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Filmmaker announces ambitious new project inspired by real-life events",
+      "story": "A filmmaker has announced an ambitious new project inspired by real-life events that have captivated the public's imagination. From historical dramas to gripping true crime stories, the project promises to shine a light on compelling narratives that resonate with audiences on a deeply personal level. With its blend of fact and fiction, the film seeks to offer insight into the human condition, exploring themes of love, loss, resilience, and redemption. As casting begins and production gets underway, the filmmaker hopes to do justice to the stories and characters that have inspired them, honoring their legacies and bringing their experiences to life on the big screen.",
+      "date": "20/06/2024",
+      "author": "Ava Johnson",
+      "photo": "https://static01.nyt.com/images/2023/06/06/multimedia/06sp-tribeca-docu-inyt-04-jzqb/06sp-tribeca-docu-inyt-04-jzqb-videoSixteenByNine3000.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Rising star emerges from indie film to sign major studio deal",
+      "story": "A rising star has emerged from the world of independent cinema to sign a lucrative deal with a major studio, catapulting them to the forefront of Hollywood's radar. With their breakthrough performance in an acclaimed indie film, the actor has captured the attention of audiences and industry insiders alike, earning praise for their talent and versatility. Now, with a multi-picture deal in hand, the actor is poised to transition from indie darling to blockbuster sensation, with leading roles in highly anticipated studio projects. As they embark on this new chapter in their career, the actor remains grateful to their indie roots and the opportunities that have shaped them into the performer they are today.",
+      "date": "25/06/2024",
+      "author": "Isabella Adams",
+      "photo": "https://media.vogue.co.uk/photos/602ab82453a6c957c223e6e1/master/w_1600%2Cc_limit/Myhala-Herrold-Industry-vogue-150221-credit-BBC-Bad-Wolf-Productions.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Film industry rallies to support humanitarian efforts in conflict zones",
+      "story": "The film industry has joined forces to support humanitarian efforts in conflict zones around the world, using the power of storytelling to raise awareness and mobilize resources for those in need. Through fundraising events, charity screenings, and advocacy campaigns, filmmakers, actors, and industry professionals are leveraging their platforms to make a positive impact on the lives of vulnerable communities affected by war and displacement. From documentaries that shed light on forgotten crises to fictional narratives that humanize the experiences of refugees and survivors, the film industry plays a vital role in fostering empathy, understanding, and solidarity in the face of adversity.",
+      "date": "30/06/2024",
+      "author": "Lucas Brown",
+      "photo": "https://images.english.elpais.com/resizer/HepDGyisQBJuwtMHOC4UAVIv9oI=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/RIAR6H7DRBFYRJ4PEAOPMXDLNM.JPG"
+    },
+    {
+      "id": 18,
+      "title": "Virtual reality revolutionizes the way audiences experience cinema",
+      "story": "Virtual reality technology is revolutionizing the way audiences experience cinema, offering immersive and interactive storytelling experiences that blur the line between fiction and reality. From VR-enhanced movie theaters to at-home VR headsets, the possibilities for virtual storytelling are endless, allowing viewers to step inside their favorite films and explore richly detailed worlds from every angle. As filmmakers experiment with this new medium, they are pushing the boundaries of traditional storytelling techniques and reimagining the cinematic landscape for the digital age. With VR experiences that range from thrilling adventures to intimate character studies, the future of cinema is unfolding in exciting and unexpected ways.",
+      "date": "05/07/2024",
+      "author": "Sophia Clark",
+      "photo": "https://i.guim.co.uk/img/media/894c0c65e08bd096435349b879b1f664231fb73e/0_100_2999_1799/master/2999.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Film preservationists race against time to save deteriorating classics",
+      "story": "Film preservationists are racing against time to save deteriorating classics from the brink of extinction, as the fragile reels of celluloid that house these cinematic treasures degrade with age. From silent-era masterpieces to iconic Hollywood blockbusters, countless films are at risk of being lost forever without urgent intervention to restore and preserve them for future generations. Through painstaking efforts to digitize and archive these films, preservationists are ensuring that the rich heritage of cinema is preserved for posterity, allowing audiences to experience the magic of these timeless classics for years to come. As they work tirelessly to safeguard the history of cinema, preservationists rely on funding and support from governments, institutions, and film enthusiasts to carry out their vital mission.",
+      "date": "10/07/2024",
+      "author": "Maxwell Roberts",
+      "photo": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/03/11/254aaf14-f63d-42ff-9692-efe8cf7b6c12/thumbnail/1200x630/4b885dd53d8f7cbecc9cebdbae945ea2/martin-scorsese-with-east-of-eden-1280.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Studio announces plans to remake beloved classic for modern audiences",
+      "story": "A major studio has announced plans to remake a beloved classic for modern audiences, reimagining the timeless story for a new generation of viewers. With advances in technology and storytelling techniques, the studio aims to capture the spirit of the original while introducing fresh elements that resonate with contemporary audiences. From updated special effects to diverse casting choices, the remake promises to honor the legacy of the original while offering a fresh perspective on familiar themes and characters. As fans eagerly anticipate the release of the remake, debates are sparked about the merits of revisiting beloved classics and the importance of preserving the integrity of the original story.",
+      "date": "15/07/2024",
+      "author": "Mia Thompson",
+      "photo": "https://images.thedirect.com/media/photos/ferns.jpg"
+    }
   ]
 }
