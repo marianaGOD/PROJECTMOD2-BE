@@ -1345,20 +1345,6 @@
       "imageUrl": "https://filmartgallery.com/cdn/shop/products/Deliverance-Vintage-Movie-Poster-Original-19x27-2034_8aa3962a-ef23-44c6-8bff-10f69d3a1962.jpg?v=1640662630"
     },
     {
-      "id": "102",
-      "title": "The Good, The Bad and the Ugly",
-      "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
-      "year": "1966",
-      "director": "Sergio Leone",
-      "mainCast": "Clint Eastwood, Eli Wallach, Lee Van Cleef",
-      "oscar": false,
-      "genre": "Western",
-      "writers": "Luciano Vincenzoni, Sergio Leone",
-      "funFact": "The film is known for its iconic music score by Ennio Morricone, particularly the theme music.",
-      "famousQuote": "There are two kinds of people in the world, my friend: those with a rope around their neck, and the people who have the job of doing the cutting.",
-      "imageUrl": "https://storage.googleapis.com/pod_public/1300/125277.jpg"
-    },
-    {
       "id": "103",
       "title": "Kind Hearts and Coronets",
       "description": "A distant poor relative of the Duke of D'Ascoyne plots to inherit the title by murdering the eight other heirs who stand ahead of him in the line of succession.",
@@ -2637,6 +2623,51 @@
       "createdDate": "19/3/2024",
       "movieId": "138",
       "id": 2
+    },
+    {
+      "username": "marilululu",
+      "title": "Amazing movie",
+      "description": "best dialogues",
+      "rating": 5,
+      "createdDate": "20/03/2024",
+      "movieId": "4",
+      "id": 3
+    },
+    {
+      "username": "popopo",
+      "title": "ugh",
+      "description": "boring!!!!",
+      "rating": 1,
+      "createdDate": "20/03/2024",
+      "movieId": "6",
+      "id": 4
+    },
+    {
+      "username": "sexy99",
+      "title": "ugh",
+      "description": "couldn't get past the first 10 min",
+      "rating": 1,
+      "createdDate": "20/03/2024",
+      "movieId": "8",
+      "id": 5
+    },
+    {
+      "username": "forrest's box of chocolate",
+      "title": "amazing",
+      "description": "this movie is like a box of chocolate",
+      "rating": 5,
+      "createdDate": "20/03/2024",
+      "movieId": "10",
+      "id": 6
+    },
+    {
+      "username": "Dgodinho",
+      "title": "Very nice!",
+      "description": "Very nice to watch with the kids!\nProps to the chinese guy",
+      "rating": 5,
+      "createdDate": "20/03/2024",
+      "movieId": "20",
+      "id": 7
     }
   ],
   "news": [
