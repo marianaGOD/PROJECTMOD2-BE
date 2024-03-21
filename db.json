@@ -1300,7 +1300,7 @@
       "writers": "Richard Curtis",
       "funFact": "The film was a major hit and received numerous nominations, helping to establish Hugh Grant as a leading man.",
       "famousQuote": "I think I've found a real feeling of happiness with you.",
-      "imageUrl": "https://lh3.googleusercontent.com/proxy/GuLLFqRpB8NrWdrARKlxTnaxBZ6VaT37vh39A55IqgfuK-Pd5873dCdwkFvye-cujOqC210jnweGd19a6lNV2IcGYwI03McsP4qL_XZbqrRkXClEGNCTWQRVa3TJpvtr-HA"
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTMyNzg2NzgxNV5BMl5BanBnXkFtZTcwMTcxNzczNA@@._V1_.jpg"
     },
     {
       "id": "99",
@@ -1343,20 +1343,6 @@
       "funFact": "Known for its graphic depiction of wilderness and survival, as well as its famous 'Dueling Banjos' scene.",
       "famousQuote": "Sometimes you have to lose yourself 'fore you can find anything.",
       "imageUrl": "https://filmartgallery.com/cdn/shop/products/Deliverance-Vintage-Movie-Poster-Original-19x27-2034_8aa3962a-ef23-44c6-8bff-10f69d3a1962.jpg?v=1640662630"
-    },
-    {
-      "id": "102",
-      "title": "The Good, The Bad and the Ugly",
-      "description": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
-      "year": "1966",
-      "director": "Sergio Leone",
-      "mainCast": "Clint Eastwood, Eli Wallach, Lee Van Cleef",
-      "oscar": false,
-      "genre": "Western",
-      "writers": "Luciano Vincenzoni, Sergio Leone",
-      "funFact": "The film is known for its iconic music score by Ennio Morricone, particularly the theme music.",
-      "famousQuote": "There are two kinds of people in the world, my friend: those with a rope around their neck, and the people who have the job of doing the cutting.",
-      "imageUrl": "https://storage.googleapis.com/pod_public/1300/125277.jpg"
     },
     {
       "id": "103",
@@ -2210,7 +2196,7 @@
       "writers": "Tony Kushner, Eric Roth",
       "funFact": "The film sparked debate over its historical accuracy and portrayal of moral ambiguity in the cycle of violence.",
       "famousQuote": "Every civilization finds it necessary to negotiate compromises with its own values.",
-      "imageUrl": "https://lh3.googleusercontent.com/proxy/kaRSPtsSuMgmaYDQvAQ-6pbudRfOWU8J9r1gyWA8LdmEXRJ3P3Ra8q5UCcOiBR-8TLDdxN1wOC2XaeLOCW2MX2m9Yofo5cs9cmalnQ"
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTcwNzYzMzMwMF5BMl5BanBnXkFtZTcwMzMzODczMQ@@._V1_.jpg"
     },
     {
       "id": "164",
@@ -2603,6 +2589,20 @@
       "funFact": "This was the first Disney animated feature film to use Xerox technology to transfer the animators' drawings to cels.",
       "famousQuote": "My story begins in London, not so very long ago.",
       "imageUrl": "https://m.media-amazon.com/images/M/MV5BZGMyMjE4OGUtNGZmMC00YzdmLThkMWYtZWIzMmEzNjA4MzVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+    },
+    {
+      "title": "The Lion King",
+      "description": "A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the Savannah, living by a philosophy: No worries for the rest of your days. But when his past comes to haunt him, the young prince must decide his fate: Will he remain an outcast or face his demons and become what he needs to be?",
+      "year": "1994",
+      "director": "Roger Allers, Rob Minkoff",
+      "mainCast": "Matthew Broderick, Jeremy Irons, James Earl Jones",
+      "oscar": true,
+      "genre": "Animation, Adventure, Drama, Family, Musical",
+      "writers": "Irene Mecchi, Jonathan Roberts, Linda Woolverton",
+      "funFact": "The elephant skeletons would have to come from freakishly large elephants. Hyenas could not pass through the trunk socket of an elephant's skull.",
+      "famousQuote": "Hakuna Matata!",
+      "imageUrl": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_.jpg",
+      "id": "Zr75ke5"
     }
   ],
   "reviews": [
@@ -2623,6 +2623,51 @@
       "createdDate": "19/3/2024",
       "movieId": "138",
       "id": 2
+    },
+    {
+      "username": "marilululu",
+      "title": "Amazing movie",
+      "description": "best dialogues",
+      "rating": 5,
+      "createdDate": "20/03/2024",
+      "movieId": "4",
+      "id": 3
+    },
+    {
+      "username": "popopo",
+      "title": "ugh",
+      "description": "boring!!!!",
+      "rating": 1,
+      "createdDate": "20/03/2024",
+      "movieId": "6",
+      "id": 4
+    },
+    {
+      "username": "sexy99",
+      "title": "ugh",
+      "description": "couldn't get past the first 10 min",
+      "rating": 1,
+      "createdDate": "20/03/2024",
+      "movieId": "8",
+      "id": 5
+    },
+    {
+      "username": "forrest's box of chocolate",
+      "title": "amazing",
+      "description": "this movie is like a box of chocolate",
+      "rating": 5,
+      "createdDate": "20/03/2024",
+      "movieId": "10",
+      "id": 6
+    },
+    {
+      "username": "Dgodinho",
+      "title": "Very nice!",
+      "description": "Very nice to watch with the kids!\nProps to the chinese guy",
+      "rating": 5,
+      "createdDate": "20/03/2024",
+      "movieId": "20",
+      "id": 7
     }
   ],
   "news": [
